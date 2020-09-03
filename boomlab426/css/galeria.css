@@ -1,0 +1,69 @@
+body {
+    background-image: url(../img/fundoblack.png);
+    overflow-x: hidden;
+
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none !important;
+    font-size: large;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.carousel {
+    margin-bottom: 35px;
+}
+
+#logo {
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+footer {
+    position: relative;
+    margin-top: 100px;
+}
+
+#logofooter {
+    left: 15px;
+    top: 15px;
+}
+
+.sociais a i {
+    color: goldenrod;
+}
+
+#copy {
+    color: goldenrod;
+    padding-left: 75%;
+}
+div.col-sm-4 {
+    margin: 5px;
+    border: 2px solid goldenrod;
+    float: left;
+ 
+}
+div.col-sm-3  {
+    color: goldenrod;
+
+}
+div.col-sm-3:hover {
+    padding-top:5px;
+    border: 4px solid goldenrod;
+}
+div.col-sm-3 img {
+    margin-top:15px;
+    width: 100%;
+    height: auto;
+}
+div.descricao {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+}

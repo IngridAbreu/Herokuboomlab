@@ -1,0 +1,54 @@
+body {
+    background-image: url(../img/fundo22222.jpg);
+    color: goldenrod;
+    overflow-x: hidden;
+
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none !important;
+    font-size: large;
+    
+    
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+
+}
+
+.carousel {
+    margin-bottom: 35px;
+}
+
+#logo {
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+footer {
+    position: relative;
+    margin-top: auto;
+}
+
+#logofooter {
+    left: 15px;
+    top: 15px;
+}
+
+.sociais a i {
+    color: goldenrod;
+    
+}
+
+#copy {
+    color: goldenrod;
+    padding-left: 75%;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+

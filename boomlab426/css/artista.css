@@ -1,0 +1,29 @@
+/*ARTISTAS*/
+ 
+div.col-sm-4 {
+    margin: 5px;
+    border: 2px solid goldenrod;
+    float: left;
+ 
+}
+div.col-sm-3 a {
+    color: goldenrod;
+}
+div.col-sm-3:hover {
+    padding-top:5px;
+    border: 4px solid goldenrod;
+}
+div.col-sm-3 img {
+    margin-top:15px;
+    width: 100%;
+    height: auto;
+}
+div.descricao {
+    text-align: center;
+}
+
+footer{
+    margin-top: 35px;
+}
+ 
+/*FIM ARTISTAS*/

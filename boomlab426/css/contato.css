@@ -1,0 +1,12 @@
+body{
+    color: goldenrod;
+    overflow-x: hidden;
+
+}
+
+footer {
+    clear: both;
+    position: relative;
+    margin-top: 100px;
+    
+}
